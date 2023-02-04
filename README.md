@@ -1,2 +1,2 @@
 # Maxwell-Fish-Eye-Lens
-Maxwell Fish Eye Lens mapping to Luneburg Lens in the Quantum mechanical framework
+Quantization of Maxwell Fish Eye Lens and generating a conformal mapping to Luneburg Lens in the Quantum mechanical framework
